@@ -28,10 +28,13 @@ Welcome to my Data Science Portfolio! This repository showcases my projects in P
 ## Case Studies
 **[`^        back to top        ^`](#data-science-portfolio)**
 
-Welcome to the heart of my portfolio! Here, you'll find a collection of diverse case studies that demonstrate my passion for data science and machine learning. These projects represent a blend of self-driven curiosity and targeted skill enhancement, showcasing my ability to tackle real-world problems with innovative solutions. Each case study is a testament to my analytical prowess, coding skills, and commitment to continuous learning. From exploratory data analysis to advanced machine learning models, these projects reflect my journey in mastering the art and science of extracting valuable insights from complex datasets. Whether you're a potential employer looking for a dedicated data scientist or a fellow enthusiast interested in collaboration, I invite you to explore these studies. They not only highlight my technical capabilities but also my approach to problem-solving and my ability to communicate complex findings in an accessible manner.
+Welcome to the heart of my portfolio! Here, you'll find a collection of diverse case studies that demonstrate my passion for data science and machine learning. These projects blend self-driven curiosity with targeted skill enhancement, showcasing my ability to address real-world challenges with innovative solutions. Each case study reflects my analytical prowess, coding skills, and commitment to continuous learning, from exploratory data analysis to advanced machine learning models. While the projects presented here highlight my technical capabilities and problem-solving approach, they represent just a fraction of my experience. I have also worked on numerous confidential and classified projects within the defence and medical sectors - not shown here. I invite potential employers and fellow enthusiasts to explore the following studies, which illustrate my journey in mastering the art of extracting valuable insights from complex datasets.
 
 
-  - Fraud Detection: A machine learning model developed to detect fraudulent transactions for a bank facing card fraudulent issues. The model prioritises high-risk transactions for review by a small team of analysts, aiming to maximise fraud prevention within the team's capacity of 500 reviews per month. Using a year's worth of historical transaction data and fraud flags, a predictive model is built to assess the likelihood of fraud for each transaction.
-    - [Approach 1](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): This model utilises an XGBoostClassifier algorithm
-    - [Approach 2](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): This model utilises an LSTM-RNN algorithm
-  - [Customer Churn Prediction]: etc
+### Fraud Detection
+A machine learning model developed to detect fraudulent transactions for a bank facing card fraudulent issues. The model prioritises high-risk transactions for review by a small team of analysts, aiming to maximise fraud prevention within the team's capacity of 500 reviews per month. Using a year's worth of historical transaction data and fraud flags, a predictive model is built to assess the likelihood of fraud for each transaction.
+  - [Approach 1](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): This model utilises an XGBoostClassifier algorithm
+  - [Approach 2](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): This model utilises an LSTM-RNN algorithm
+  
+### Customer Churn Prediction
+blahblah
