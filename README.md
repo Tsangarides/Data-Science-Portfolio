@@ -13,17 +13,7 @@ Welcome to my Data Science Portfolio! This repository showcases my projects in P
     - [Approach 1](#approach-1)
     - [Approach 2](#approach-2)
   - [Customer Churn Prediction](#customer-churn-prediction)
-  - []
-- [Where do I Start?](#where-do-i-start)
-- [Training Resources](#training-resources)
-  - [Tutorials](#tutorials)
-  - [Free Courses](#free-courses)
-  - [Massively Open Online Courses](#moocs)
-  - [Intensive Programs](#intensive-programs)
-  - [Colleges](#colleges)
-- [The Data Science Toolbox](#the-data-science-toolbox)
-  - [Algorithms](#algorithms)
-    - [Supervised Learning](#supervised-learning)
+  
    
 ## Case Studies
 **[`^        back to top        ^`](#data-science-portfolio)**
@@ -33,8 +23,8 @@ Welcome to the heart of my portfolio! Here, you'll find a collection of diverse 
 
 ### Fraud Detection
 A machine learning model developed to detect fraudulent transactions for a bank facing card fraudulent issues. The model prioritises high-risk transactions for review by a small team of analysts, aiming to maximise fraud prevention within the team's capacity of 500 reviews per month. Using a year's worth of historical transaction data and fraud flags, a predictive model is built to assess the likelihood of fraud for each transaction.
-  - [Approach 1](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): This model utilises an XGBoostClassifier algorithm
-  - [Approach 2](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): This model utilises an LSTM-RNN algorithm
+  - [Approach 1](https://github.com/): This model utilises an XGBoostClassifier algorithm
+  - [Approach 2](https://github.com/): This model utilises an LSTM-RNN algorithm
   
 ### Customer Churn Prediction
-blahblah
+In Progress
